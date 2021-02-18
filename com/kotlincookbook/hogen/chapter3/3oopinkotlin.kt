@@ -1,5 +1,4 @@
-package com.kotlincookbook.hogen
-
+package com.kotlincookbook.hogen.chapter3
 import org.apache.commons.math3.complex.Complex
 
 //overload operator

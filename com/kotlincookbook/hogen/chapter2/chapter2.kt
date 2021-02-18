@@ -23,7 +23,7 @@ fun main() {
 @Test
 fun `doubling and halving`(){
     assertAll("left shitfs doubling from 1", //0000_0001
-    {assertThat( 2, equalTo(1 shl 1))}
+        {assertThat( 2, equalTo(1 shl 1))}
     )
 }
 
